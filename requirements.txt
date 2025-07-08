@@ -1,0 +1,7 @@
+ultralytics
+transformers
+torch
+datasets
+pillow
+fastapi
+uvicorn[standard]
